@@ -32,7 +32,7 @@
 2. **Download Project Files**
    - Clone the project from GitHub:
      ```bash
-     git clone https://github.com/yourusername/FusionMotionEngine.git
+     git clone https://github.com/yourusername/fusion-motion-engine.git
      ```
 
 3. **Open the Unreal Engine Project**
