@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "imu-bridge",
+			"path": "03_Software/01_Microcontroller/01_ESP8266/Cpp/imu-bridge"
+		},
+		{
+			"path": "03_Software/05_Unreal_Engine/lab"
+		}
+	],
+	"settings": {
+		"todo-tree.tree.disableCompactFolders": false,
+		"todo-tree.tree.showCountsInTree": true
+	}
+}
