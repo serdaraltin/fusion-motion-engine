@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 hierarch_create.sh
+
+# Unreal Engine
+Saved
+Intermediate
+.vscode
