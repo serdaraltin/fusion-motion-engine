@@ -80,4 +80,4 @@ Intermediate
 .vscode
 .directory
 
-.code-workspace
+*.code-workspace
