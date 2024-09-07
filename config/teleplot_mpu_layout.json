@@ -1,0 +1,105 @@
+{
+   "widgets": [
+      {
+         "type": "chart",
+         "gridPos": {
+            "h": 6,
+            "w": 6,
+            "x": 0,
+            "y": 0
+         },
+         "series": [
+            {
+               "name": "Accel-X",
+               "sourceNames": [
+                  "Accel-X"
+               ],
+               "formula": "",
+               "options": {
+                  "_serie": "Accel-X",
+                  "stroke": "rgba(231,76,60,1)",
+                  "fill": "rgba(231,76,60,0.1)"
+               },
+               "type": "number"
+            },
+            {
+               "name": "Accel-Y",
+               "sourceNames": [
+                  "Accel-Y"
+               ],
+               "formula": "",
+               "options": {
+                  "_serie": "Accel-Y",
+                  "stroke": "rgba(52,152,219,1)",
+                  "fill": "rgba(52,152,219,0.1)"
+               },
+               "type": "number"
+            },
+            {
+               "name": "Accel-Z",
+               "sourceNames": [
+                  "Accel-Z"
+               ],
+               "formula": "",
+               "options": {
+                  "_serie": "Accel-Z",
+                  "stroke": "rgba(46,204,113,1)",
+                  "fill": "rgba(46,204,113,0.1)"
+               },
+               "type": "number"
+            }
+         ]
+      },
+      {
+         "type": "chart",
+         "gridPos": {
+            "h": 6,
+            "w": 6,
+            "x": 0,
+            "y": 0
+         },
+         "series": [
+            {
+               "name": "Gyro-X",
+               "sourceNames": [
+                  "Gyro-X"
+               ],
+               "formula": "",
+               "options": {
+                  "_serie": "Gyro-X",
+                  "stroke": "rgba(231,76,60,1)",
+                  "fill": "rgba(231,76,60,0.1)"
+               },
+               "type": "number"
+            },
+            {
+               "name": "Gyro-Y",
+               "sourceNames": [
+                  "Gyro-Y"
+               ],
+               "formula": "",
+               "options": {
+                  "_serie": "Gyro-Y",
+                  "stroke": "rgba(52,152,219,1)",
+                  "fill": "rgba(52,152,219,0.1)"
+               },
+               "type": "number"
+            },
+            {
+               "name": "Gyro-Z",
+               "sourceNames": [
+                  "Gyro-Z"
+               ],
+               "formula": "",
+               "options": {
+                  "_serie": "Gyro-Z",
+                  "stroke": "rgba(46,204,113,1)",
+                  "fill": "rgba(46,204,113,0.1)"
+               },
+               "type": "number"
+            }
+         ]
+      }
+   ],
+   "viewDuration": 15
+}
