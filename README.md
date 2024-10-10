@@ -1,4 +1,4 @@
-# FusionMotionEngine
+# Fusion Motion Engine
 
 **FusionMotionEngine** is a comprehensive project designed to create real-time and recordable animations using Unreal Engine and OpenCV. Equipped with Kinect2 and IMU sensors, this project integrates hardware and software components and incorporates various AI algorithms and data processing methods.
 
