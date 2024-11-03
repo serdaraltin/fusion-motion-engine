@@ -10,3 +10,6 @@
 [submodule "modules/fusion-unreal"]
 	path = modules/fusion-unreal
 	url = https://github.com/serdaraltin/fusion-unreal
+[submodule "modules/fusion-blender"]
+	path = modules/fusion-blender
+	url = https://github.com/serdaraltin/fusion-blender
