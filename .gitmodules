@@ -1,0 +1,12 @@
+[submodule "modules/fusion-vision"]
+	path = modules/fusion-vision
+	url = https://github.com/serdaraltin/fusion-vision
+[submodule "modules/fusion-bridge"]
+	path = modules/fusion-bridge
+	url = https://github.com/serdaraltin/fusion-bridge
+[submodule "modules/fusion-sens"]
+	path = modules/fusion-sens
+	url = https://github.com/serdaraltin/fusion-sens
+[submodule "modules/fusion-unreal"]
+	path = modules/fusion-unreal
+	url = https://github.com/serdaraltin/fusion-unreal

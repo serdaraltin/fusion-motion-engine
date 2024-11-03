@@ -1,0 +1,67 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="QDQh51oGdFeBCITTGrjG">
+    <mxGraphModel dx="1955" dy="1209" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#2B2B2B" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-41" target="PQV2WWK6WhQUhixlEIvW-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-41" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="25" y="243" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-42" target="PQV2WWK6WhQUhixlEIvW-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-42" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="375" y="373" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-45" target="PQV2WWK6WhQUhixlEIvW-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-45" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="215" y="243" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-47" target="PQV2WWK6WhQUhixlEIvW-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-47" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="512" y="373" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-51" target="PQV2WWK6WhQUhixlEIvW-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-51" value="" style="image;html=1;image=img/lib/clip_art/computers/Touch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="925" y="373" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-53" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1065" y="373" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-55" target="PQV2WWK6WhQUhixlEIvW-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-55" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="791" y="383" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" source="PQV2WWK6WhQUhixlEIvW-65" target="PQV2WWK6WhQUhixlEIvW-66" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-65" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="25" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-66" target="PQV2WWK6WhQUhixlEIvW-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-66" value="" style="image;html=1;image=img/lib/clip_art/computers/Netbook_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="215" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQV2WWK6WhQUhixlEIvW-74" target="PQV2WWK6WhQUhixlEIvW-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQV2WWK6WhQUhixlEIvW-74" value="" style="image;html=1;image=img/lib/clip_art/computers/Virtual_Application_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="652" y="373" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
