@@ -13,3 +13,6 @@
 [submodule "modules/fusion-blender"]
 	path = modules/fusion-blender
 	url = https://github.com/serdaraltin/fusion-blender
+[submodule "references/xsens_mti_ros_node"]
+	path = references/xsens/xsens_mti_ros_node
+	url = https://github.com/xsens/xsens_mti_ros_node
