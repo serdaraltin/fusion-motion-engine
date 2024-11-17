@@ -1,17 +1,17 @@
 [submodule "modules/fusion-vision"]
-	path = modules/fusion-vision
+	path = src/fusion-vision
 	url = https://github.com/serdaraltin/fusion-vision
 [submodule "modules/fusion-bridge"]
-	path = modules/fusion-bridge
+	path = src/fusion-bridge
 	url = https://github.com/serdaraltin/fusion-bridge
 [submodule "modules/fusion-sens"]
 	path = src/fusion-sens
 	url = https://github.com/serdaraltin/fusion-sens
 [submodule "modules/fusion-unreal"]
-	path = modules/fusion-unreal
+	path = src/fusion-unreal
 	url = https://github.com/serdaraltin/fusion-unreal
 [submodule "modules/fusion-blender"]
-	path = modules/fusion-blender
+	path = src/fusion-blender
 	url = https://github.com/serdaraltin/fusion-blender
 [submodule "references/xsens_mti_ros_node"]
 	path = references/xsens/xsens_mti_ros_node
