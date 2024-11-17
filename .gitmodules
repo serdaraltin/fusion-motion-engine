@@ -5,7 +5,7 @@
 	path = modules/fusion-bridge
 	url = https://github.com/serdaraltin/fusion-bridge
 [submodule "modules/fusion-sens"]
-	path = modules/fusion-sens
+	path = src/fusion-sens
 	url = https://github.com/serdaraltin/fusion-sens
 [submodule "modules/fusion-unreal"]
 	path = modules/fusion-unreal
